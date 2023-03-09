@@ -7,6 +7,7 @@
     <title>web Khutbah</title>
 </head>
 <body>
-    
+    <h1>hello word</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum cumque nesciunt quidem ea esse velit accusantium assumenda, veritatis labore. In quaerat blanditiis quas doloribus illo exercitationem nihil dolorum impedit harum.</p>
 </body>
 </html>
